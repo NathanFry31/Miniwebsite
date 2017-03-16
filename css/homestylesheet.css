@@ -1,0 +1,162 @@
+/* Every thing on the HTML Page */
+html{
+	background-image: url('../images/hooverlogo.jpg');
+	background-repeat: no-repeat;
+	border-width: thick;
+	border-style: solid;
+	border-color: black;
+	margin-left: 100px;
+	margin-right: 100px;
+	background-color: orange;
+}
+h1{
+	font-size: 37px;
+	text-align: center;
+}
+h2{
+	font-size: 30px;
+	position: absolute;
+	top:150px;
+}
+h3{
+	text-align: left;
+	top:200px;
+}
+/* Every thing on the Body Page */
+body{
+	width:auto;
+	text-align: center;
+}
+/* Every thing for the Unorder List */
+li{
+	text-decoration: none;
+	border-style: solid;
+	border-width: medium;
+	border-color: lime;
+	display: inline-block;
+}
+p{
+	text-align: center;
+	font-size: 18px;
+	position: absolute;
+	top:200px;
+}
+/* Every thing for the promotions page */
+#sales{
+	position:absolute;
+	left:1000px;
+}
+#price1{
+	text-align: center;
+	left:300px;
+	top:500px;
+	font-size:20px;
+}
+#ad1{
+	position: absolute;
+	top:250px;
+	left:250px;
+}
+#price2{
+	text-align: center;
+	font-size: 20px;
+	left:600px;
+}
+#ad2{
+	position: absolute;
+	top:250px;
+	left:550px;
+}
+#price3{
+	text-align: right;
+	top:500px;
+	left:870px;
+	font-size: 20px;
+}
+#ad3{
+	position: absolute;
+	top:250px;
+	left:800px;
+}
+#email{
+	position: absolute;
+	top:300px;
+}
+/* This to move the Nav Bar */
+#promotions{
+	position: absolute;
+	left:450px;
+}
+#vacuums{
+	position: absolute;
+	left:500px;
+}
+#rate{
+	position: absolute;
+	left:640px;
+}
+#support{
+	position: absolute;
+	left:700px;
+}
+#about{
+	position: absolute;
+	left:825px;
+}/* Pictures for About Us page */
+#founders{
+	position: absolute;
+	left:200px;
+	top:450px;
+}
+#patent{
+	position: absolute;
+	top:385px;
+	left:1000px;
+}
+legend{
+	text-transform: capitalize;
+	font-size:22px;
+}
+fieldset{
+	border: 10px solid green;
+}/* For The Button On Customer Page */
+button{
+	position: relative;
+	top:400px;
+	left:580px;
+}
+#modelinfo{
+	position: absolute;
+	left:600px;
+	top:300px;
+}
+#rateTitle{
+	text-align: left;
+	top:140px;
+}
+#drop{
+	text-align: left;
+	top:180px;
+}
+#rateField{
+	border: none;
+}
+#rateBox{
+	position: absolute;
+	top:250px;
+	left: 350px;
+}
+#comment{
+	position: relative;
+	border:5px solid black;
+	top:200px;
+	right:190px;
+}
+#trademark{
+	text-align: left;
+	top:550px;
+}
+#realWebsite{
+	left:575px;
+	top:550px;
+}
